@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "id": "cockl_ty_03",
+      "nickname": "Luna",
+      "tags": ["Yoga", "Mobility"],
+      "title": "Evening Flow: Open Hips and Steady Breathing",
+      "content": "A 45-minute flow yoga session focused on warrior sequences and pigeon variations. With diaphragmatic breathing, my neck and shoulders felt much looser. Finishing one hour before bed helped me fall asleep faster than usual.",
+      "quote": "Flexibility is not talent. It is daily breathing and letting go.",
+      "avatar": "assets/Cockl_TY/3/avatar.webp",
+      "video": "assets/Cockl_TY/3/video.mp4",
+      "images": [
+        "assets/Cockl_TY/3/feed_01.webp",
+        "assets/Cockl_TY/3/feed_02.webp",
+        "assets/Cockl_TY/3/feed_03.webp"
+      ],
+      "likes": 4,
+      "comments": 0,
+      "weeklyWorkouts": 6,
+      "dailyStepAvg": 6500,
+      "dailyCalorieTarget": 1850,
+      "hydrationTargetMl": 2200,
+      "sleepHoursTarget": 8.0,
+      "restingHeartRateBpm": 54,
+      "nutritionTip": "Avoid too much caffeine in evening sessions. Warm milk or a small portion of nuts can help keep blood sugar stable."
+    },
+    {
+      "id": "cockl_ty_04",
+      "nickname": "Axel",
+      "tags": ["HIIT", "Fat Burn"],
+      "title": "20-Min Full-Body Circuit, High Sweat and Knee-Friendly",
+      "content": "Six-move circuit: jumping jacks, low-amplitude squat jumps, mountain climbers, plank shoulder taps, simplified burpees, and rope-free battle punches. Rest 20 seconds between rounds and keep peak heart rate near sustainable conversation edge.",
+      "quote": "Short and sharp intervals are a direct punch to your metabolism.",
+      "avatar": "assets/Cockl_TY/4/avatar.webp",
+      "video": "assets/Cockl_TY/4/video.mp4",
+      "images": [
+        "assets/Cockl_TY/4/feed_01.webp",
+        "assets/Cockl_TY/4/feed_02.webp",
+        "assets/Cockl_TY/4/feed_03.webp"
+      ],
+      "likes": 9,
+      "comments": 0,
+      "weeklyWorkouts": 5,
+      "dailyStepAvg": 9800,
+      "dailyCalorieTarget": 2050,
+      "hydrationTargetMl": 2700,
+      "sleepHoursTarget": 7.2,
+      "restingHeartRateBpm": 59,
+      "nutritionTip": "On high-intensity days, pay attention to electrolyte balance. Banana or light salt water can help."
+    },
+    {
+      "id": "cockl_ty_01",
+      "nickname": "Milo",
+      "tags": ["Running", "Cardio"],
+      "title": "Morning 5K with Stable Zone-2 Heart Rate",
+      "content": "Completed an easy 5K run on the riverside track. First 2K as warm-up, then a slight pace increase. Finished with calf and hip stretches, and my knees felt fine. Planning to gradually increase running frequency to four times per week.",
+      "quote": "Every step is a gentle investment in your cardio system.",
+      "avatar": "assets/Cockl_TY/1/avatar.webp",
+      "video": "assets/Cockl_TY/1/video.mp4",
+      "images": [
+        "assets/Cockl_TY/1/feed_01.webp",
+        "assets/Cockl_TY/1/feed_02.webp",
+        "assets/Cockl_TY/1/feed_03.webp"
+      ],
+      "likes": 2,
+      "comments": 0,
+      "weeklyWorkouts": 5,
+      "dailyStepAvg": 11200,
+      "dailyCalorieTarget": 2150,
+      "hydrationTargetMl": 2600,
+      "sleepHoursTarget": 7.5,
+      "restingHeartRateBpm": 56,
+      "nutritionTip": "Before long runs, increase quality carbs in the prior meal. Replenish protein and fluids within 30 minutes after running."
+    },
+    {
+      "id": "cockl_ty_02",
+      "nickname": "Zane",
+      "tags": ["Strength", "Muscle Gain"],
+      "title": "Squat Day: Full Range Matters More Than Chasing Load",
+      "content": "Main lifts were squat and Romanian deadlift, with leg press and anti-rotation core as accessories. I slowed down the eccentric phase on purpose to keep hip-knee-ankle aligned. Training volume was one set more than last week while keeping RPE under 8.",
+      "quote": "Weights can lie. Movement quality does not.",
+      "avatar": "assets/Cockl_TY/2/avatar.webp",
+      "video": "assets/Cockl_TY/2/video.mp4",
+      "images": [
+        "assets/Cockl_TY/2/feed_01.webp",
+        "assets/Cockl_TY/2/feed_02.webp",
+        "assets/Cockl_TY/2/feed_03.webp"
+      ],
+      "likes": 11,
+      "comments": 0,
+      "weeklyWorkouts": 4,
+      "dailyStepAvg": 7800,
+      "dailyCalorieTarget": 2680,
+      "hydrationTargetMl": 2800,
+      "sleepHoursTarget": 7.0,
+      "restingHeartRateBpm": 62,
+      "nutritionTip": "On strength days, target about 1.6-2.0g protein per kg bodyweight, split across three meals for better consistency."
+    },
+    {
+      "id": "cockl_ty_05",
+      "nickname": "Orin",
+      "tags": ["Cycling", "Outdoor"],
+      "title": "Weekend Climb Ride: Turn Scenery into Cardio",
+      "content": "Rode 35 km with two moderate climbs at stable gearing and controlled cadence on flats. Wore helmet and gloves, and hydrated twice mid-ride. Foam-rolled quads after the session for recovery.",
+      "quote": "When the wind passes your ears, fat is working too.",
+      "avatar": "assets/Cockl_TY/5/avatar.webp",
+      "video": "assets/Cockl_TY/5/video.mp4",
+      "images": [
+        "assets/Cockl_TY/5/feed_01.webp",
+        "assets/Cockl_TY/5/feed_02.webp",
+        "assets/Cockl_TY/5/feed_03.webp"
+      ],
+      "likes": 6,
+      "comments": 0,
+      "weeklyWorkouts": 3,
+      "dailyStepAvg": 5400,
+      "dailyCalorieTarget": 2380,
+      "hydrationTargetMl": 3000,
+      "sleepHoursTarget": 7.8,
+      "restingHeartRateBpm": 57,
+      "nutritionTip": "For long outdoor cardio sessions, carry gel or carb bars to avoid dizziness from low blood sugar."
+    },
+    {
+      "id": "cockl_ty_06",
+      "nickname": "Nora",
+      "tags": ["Recovery", "Posture"],
+      "title": "Desk-Worker Scapula Activation: 4 Quick Moves",
+      "content": "A 12-minute desk-friendly activation set: wall angels, band external rotations, cat-cow, and dead bug. The focus is thoracic mobility and scapular retraction. Neck and shoulder tension felt much better right after.",
+      "quote": "Your body does not break suddenly. It keeps sending signals.",
+      "avatar": "assets/Cockl_TY/6/avatar.webp",
+      "video": "assets/Cockl_TY/6/video.mp4",
+      "images": [
+        "assets/Cockl_TY/6/feed_01.webp",
+        "assets/Cockl_TY/6/feed_02.webp",
+        "assets/Cockl_TY/6/feed_03.webp"
+      ],
+      "likes": 12,
+      "comments": 0,
+      "weeklyWorkouts": 5,
+      "dailyStepAvg": 7200,
+      "dailyCalorieTarget": 1920,
+      "hydrationTargetMl": 2400,
+      "sleepHoursTarget": 7.5,
+      "restingHeartRateBpm": 60,
+      "nutritionTip": "For sedentary routines, pay attention to vitamin D and calcium. Pair sun exposure with strength training for bone health."
+    }
+  ]
+}

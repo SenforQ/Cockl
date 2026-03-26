@@ -1,0 +1,50 @@
+name: cockl
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.7 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path: ^1.9.0
+  in_app_review: ^2.0.9
+  share_plus: ^12.0.1
+  path_provider: ^2.1.5
+  image_picker: ^1.1.2
+  webview_flutter: ^4.4.2
+  shared_preferences: ^2.5.3
+  audio_session: ^0.2.2
+  just_audio: ^0.10.5
+  package_info_plus: ^9.0.0
+  http: ^1.2.0
+  flutter_staggered_grid_view: ^0.7.0
+  video_player: ^2.10.0
+  gal: ^2.3.0
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+  in_app_purchase: ^3.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/applogo.png
+    - assets/plan_ai_assistant.png
+    - assets/user_default.png
+    - assets/workout/
+    - assets/workout_music/
+    - assets/Cockl_TY/users_manifest.json
+    - assets/Cockl_TY/1/
+    - assets/Cockl_TY/2/
+    - assets/Cockl_TY/3/
+    - assets/Cockl_TY/4/
+    - assets/Cockl_TY/5/
+    - assets/Cockl_TY/6/
